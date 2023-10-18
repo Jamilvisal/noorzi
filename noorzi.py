@@ -138,7 +138,7 @@ logo=("""
 \x1b[1;92m---------------------------------------------------
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m AUTHOR     \x1b[1;97m: \x1b[1;97mking   
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m FACEBOOK   \x1b[1;97m: \x1b[1;97mking               
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m WHATSAPP   \x1b[1;97m: \x1b[1;97m0708509223            
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m WHATSAPP   \x1b[1;97m: \x1b[1;97m0704924100            
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m STATUS     \x1b[1;97m: \x1b[1;97mRANDOM CLONING 
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m TYPE       \x1b[1;97m: \x1b[1;97mpaid    
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m GITHUB     \x1b[1;97m:\x1b[1;97m king
